@@ -61,7 +61,7 @@ function Advo() {
           ></path>
         </svg>
         <div>
-        <AnimatedText>
+        <AnimatedText className="text-center">
               <strong>MBS</strong>
             </AnimatedText>
         </div>
