@@ -36,9 +36,14 @@ function Navbar() {
             <a className="nav-link text-white" href="#expe">
               Experience
             </a>
+            <a className=" nav-link text-white" href="#carouselExample">
+            Advocacy
+            </a>
             <a className=" nav-link text-white" href="#footer">
             Contact
             </a>
+            
+            
           </div>
         </div>
       </div>
